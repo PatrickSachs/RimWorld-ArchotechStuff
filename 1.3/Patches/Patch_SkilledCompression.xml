@@ -1,0 +1,20 @@
+﻿<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/RecipeDef[defName="MaG_MakeArchotechPlant"]</xpath>
+    <value>
+      <workSkill>Cooking</workSkill>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/RecipeDef[defName="MaG_MakeArchotechMeat"]</xpath>
+    <value>
+      <workSkill>Cooking</workSkill>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/RecipeDef[defName="MaG_MakeArchotecAnimalProduct"]</xpath>
+    <value>
+      <workSkill>Cooking</workSkill>
+    </value>
+  </Operation>
+</Patch>

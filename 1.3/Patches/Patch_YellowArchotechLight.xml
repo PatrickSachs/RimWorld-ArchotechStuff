@@ -1,0 +1,8 @@
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="ArchoLampThing"]/comps/li[@Class="CompProperties_Glower"]/glowColor</xpath>
+    <value>
+      <glowColor>(321,321,0,0)</glowColor>
+    </value>
+  </Operation>
+</Patch>

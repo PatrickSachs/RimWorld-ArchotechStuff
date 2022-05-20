@@ -1,0 +1,13 @@
+{
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "twee3-sc2",
+    "tw",
+    "markdown",
+    "latex",
+    "plaintext",
+    "javascript"
+  ]
+}
